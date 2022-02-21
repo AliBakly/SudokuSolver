@@ -17,5 +17,10 @@ The GUI is written with the Swing frameworks and the buttons are self explanator
 All classes, interfaces and public methods have been provided documentation, according to the Javadoc documentation generator. You can find these by opening the file allclasses-index.html in your browser or IDE.
 
 # The Algorithm
-[(Back to top)](#table-of-contents)
-test
+The grid is represented by a matrix of dimensions 9x9. Rows and columns are indexed from 0 to 8 and each space takes a number between 1-9. 0 represents an empty space. To solve the problem you initially start at the first space (grid square), which is given by ```solve(0, 0)``` in the code. For each space there are then two cases
+* Case 1
+  1. Sub Item A
+  2. Sub Item B
+* Case 2
+  1. Sub Item A
+  2. Sub Item B
