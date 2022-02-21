@@ -1,5 +1,5 @@
 # SudokuSolver
-A simple Sudoku solver implemented with backtracking and a GUI.
+A simple Sudoku solver implemented with backtracking in Java and a GUI made with the Java framework Swing.
 # Table of contents
 
 - [Running the application](#running-the-application)
