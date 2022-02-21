@@ -14,6 +14,7 @@ Given you have a Java Runtime environment installed on the computer all you have
 The GUI is written with the Swing frameworks and the buttons are self explanatory.
 
 # Documentation
+All classes, interfaces and public methods have been provided documentation, according to the Javadoc documentation generator. You can find these by opening the file allclasses-index.html in your browser or IDE.
 
 # The Algorithm
 [(Back to top)](#table-of-contents)
